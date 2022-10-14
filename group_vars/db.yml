@@ -1,0 +1,5 @@
+---
+db_user: "db_user"
+db_password: "Passw0rd"
+db_name: "guestbook"
+db_host: "34.75.89.72"
